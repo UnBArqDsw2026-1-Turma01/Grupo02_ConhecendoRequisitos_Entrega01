@@ -11,3 +11,7 @@
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Cronograma](/Base/1.5.1.Cronograma.md)
+      - [1.5.2. Disponibilidade](/Base/1.5.2.Disponibilidade.md)
+      - [1.5.3. Reuniões e atas](Base/1.5.3.ReunioesAtas.md)
+      - [1.5.4. Conhecimentos da equipe](Base/1.5.4.Conhecimentos.md)
+      - [1.5.5. Marca ConhecendoRequisitos](Base/1.5.5.Marca.md)
