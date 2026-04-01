@@ -13,6 +13,8 @@
       - [1.2.2. Glossário](Base/1.2.2.glossario.md) 
       - [1.2.3. Léxico](Base/1.2.3.Lexico.md)
       - [1.2.4. Diagrama de Ishikawa](Base/1.2.4.DiagramadeIshikawa.md)
+      - [1.2.4. Diagrama de Ishikawa](Base/1.2.4. Diagrama de Ishikawa.md)
+      - [1.2.5. 5W2H](Base/1.2.5.5W2H.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
