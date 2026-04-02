@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
 - [Home](/)
-- [Projetos](/Projeto/Projeto.md)
 
 - **Base**
   - [1. Desenho de Software (Base)](/Base/1.Base.md)
@@ -10,7 +9,7 @@
       - [1.1.2. Sketch](/Base/1.1.2.Sketch.md)
     - [1.2. Artefato Generalista](/Base/1.2.ArtefatoGeneralista.md)
       - [1.2.1. Rich Picture](/Base/1.2.1.RichPicture.md)
-      - [1.2.2. Glossário](Base/1.2.2.glossario.md) 
+      - [1.2.2. Glossário](Base/1.2.2.glossario.md)
       - [1.2.3. Léxico](Base/1.2.3.Lexico.md)
       - [1.2.4. Diagrama de Ishikawa](Base/1.2.4.DiagramadeIshikawa.md)
       - [1.2.5. 5W2H](Base/1.2.5.5W2H.md)
