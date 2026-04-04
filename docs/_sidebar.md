@@ -22,6 +22,7 @@
       - [1.5.3. Reuniões e atas](Base/1.5.3.ReunioesAtas.md)
       - [1.5.4. Conhecimentos da equipe](Base/1.5.4.Conhecimentos.md)
       - [1.5.5. Marca ConhecendoRequisitos](Base/1.5.5.Marca.md)
+      - [1.5.6. Ferramentas](Base/1.5.6.Ferramentas.md)
   - Atas
     - [27-03 - Reunião inicial](/atas/27-03.md)
     - [27-03 - Mapping](/atas/27-03_2.md)
