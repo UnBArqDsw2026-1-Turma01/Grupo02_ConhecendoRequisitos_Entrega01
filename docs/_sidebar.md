@@ -16,6 +16,7 @@
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
       - [1.3.1. BPMN Kanban](/Base/1.3.1.BPMN_Kanban.md)
       - [1.3.2. BPMN do Software](/Base/1.3.2.BPMN_Software.md)
+      - [1.3.3. BPMN do GitFlow](/Base/1.3.3.BPMN_Gitflow.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
     - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Cronograma](/Base/1.5.1.Cronograma.md)
