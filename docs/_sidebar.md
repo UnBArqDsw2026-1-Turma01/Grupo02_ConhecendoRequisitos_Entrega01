@@ -32,3 +32,4 @@
     - [27-03 - Reunião inicial](/atas/27-03.md)
     - [27-03 - Mapping](/atas/27-03_2.md)
     - [28-03 - Finalização do mapping](/atas/28-03.md)
+    - [05-04 - Test (verificação)](/atas/05-04.md)
