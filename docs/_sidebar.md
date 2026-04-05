@@ -3,7 +3,7 @@
 - [Home](/)
 
 - **Base**
-  - [1. Desenho de Software (Base)](/Base/1.Base.md)
+  - [1. Desenho de Software](/Base/1.Base.md)
     - [1.1. Design Sprint](/Base/1.1.DesignSprint.md)
       - [1.1.1 Mapping](Base/1.1.1.Mapping.md)
       - [1.1.2. Sketch](/Base/1.1.2.Sketch.md)
@@ -20,7 +20,7 @@
       - [1.3.2. BPMN do Software](/Base/1.3.2.BPMN_Software.md)
       - [1.3.3. BPMN do GitFlow](/Base/1.3.3.BPMN_Gitflow.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
+    - [1.5. Iniciativas Extras](/Base/1.5.IniciativasExtras.md)
       - [1.5.1. Cronograma](/Base/1.5.1.Cronograma.md)
       - [1.5.2. Disponibilidade](/Base/1.5.2.Disponibilidade.md)
       - [1.5.3. Reuniões e atas](Base/1.5.3.ReunioesAtas.md)
