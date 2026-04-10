@@ -16,6 +16,7 @@
       - [1.2.3. Léxico](Base/1.2.3.Lexico.md)
       - [1.2.4. Diagrama de Ishikawa](Base/1.2.4.DiagramadeIshikawa.md)
       - [1.2.5. 5W2H](Base/1.2.5.5W2H.md)
+      - [1.2.6. Product Backlog](Base/1.2.6.ProductBacklog.md)
     - [1.3. Modelagem BPMN](/Base/1.3.ModelagemBPMN.md)
       - [1.3.1. BPMN Kanban](/Base/1.3.1.BPMN_Kanban.md)
       - [1.3.2. BPMN do Software](/Base/1.3.2.BPMN_Software.md)
